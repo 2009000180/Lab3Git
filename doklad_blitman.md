@@ -342,3 +342,13 @@ logger.error("Склад не ответил за 5 секунд", extra=extra)
 
 
 Источники
+1. pytest — официальная документация. https://docs.pytest.org/en/stable/
+2. Selenium WebDriver — официальная документация. https://www.selenium.dev/documentation/webdriver/
+3. Ruff — официальная документация. https://docs.astral.sh/ruff/
+4. pdb — отладчик Python, официальная документация. https://docs.python.org/3/library/pdb.html
+5. Microsoft Learn. Методы и средства отладки в Visual Studio. https://learn.microsoft.com/en-us/visualstudio/debugger/write-better-code-with-visual-studio?view=visualstudio
+6. Microsoft Learn. Первое знакомство с отладчиком Visual Studio. https://learn.microsoft.com/en-us/visualstudio/debugger/debugger-feature-tour?view=visualstudio
+7. Python Logging HOWTO — официальная документация. https://docs.python.org/3/howto/logging.html
+8. git bisect — официальная документация Git. https://git-scm.com/docs/git-bisect
+9. Ministry of Testing. Observer Effect. https://www.ministryoftesting.com/glossary/observer-effect
+10. OpenTelemetry. Traces — официальная документация. https://opentelemetry.io/docs/concepts/signals/traces/
